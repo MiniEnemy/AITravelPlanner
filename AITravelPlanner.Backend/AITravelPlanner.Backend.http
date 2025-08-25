@@ -1,0 +1,6 @@
+@AITravelPlanner.Backend_HostAddress = http://localhost:5146
+
+GET {{AITravelPlanner.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
